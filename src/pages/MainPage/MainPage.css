@@ -1,0 +1,26 @@
+.MainPage {
+  background-color: blue;
+  display: flex;
+  flex-direction: column;
+  width: 100;
+  height: 100vh;
+}
+.top {
+  background-color: #202020;
+  width: 100%;
+  height: 80px;
+}
+
+.center {
+  width: 100%;
+  height: 100%;
+  background-color: #303030;
+  display: flex;
+  flex-direction: row;
+}
+
+.videoView {
+  width: 100%;
+  height: 100%;
+  background-color: #181818;
+}
